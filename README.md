@@ -85,5 +85,5 @@ customer-churn-analysis/
 
 ## 👤 Author
 
-**Madhu** — MCA Student | Aspiring Data Analyst  
-📧 [Your Email] | 💼 [Your LinkedIn] | 🐙 [GitHub Profile](https://github.com/Madhu-j25)
+**Madhusmita Jena** — MCA Student | Aspiring Data Analyst  
+📧 madhusmitajena2501@gmail.com | 🐙 [GitHub Profile](https://github.com/Madhu-j25)
